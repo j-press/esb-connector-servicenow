@@ -1,4 +1,4 @@
-# Configuring Salesforce REST Operations
+# Configuring ServiceNow REST Operations
 
 [[Prerequisites]](#Prerequisites) [[Initializing the connector]](#initializing-the-connector)
 
